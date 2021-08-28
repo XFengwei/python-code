@@ -20,4 +20,4 @@ After running
 ```terminal
 Python3 Astroreproject.py
 ```
-in your terminal, you could get product **HCN(4-3)_cube_rp.fits** and **HCN(4-3)_MomZer_rp.fits**
+in your terminal, you could get product **HCN(4-3)_cube_rp.fits** and **HCN(4-3)_MomZero_rp.fits**
