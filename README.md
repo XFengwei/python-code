@@ -4,4 +4,4 @@ Welcome! You've reached the home of a collection of Python resources, aimed towa
 
 Here, what I am doing is to offer some of my codes for particular data (different telescopes or wavelengths).
 
-**Life is short, hope my codes will save your time/efforts.**
+**Life is short, hope my codes will save your time.**
