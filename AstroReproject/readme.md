@@ -18,6 +18,6 @@ You need Python3 installed and the basic packages are needed:
 
 After running
 ```terminal
-Python3 Astroreproject.py
+python3 Astroreproject.py
 ```
 in your terminal, you could get product **HCN(4-3)_cube_rp.fits** and **HCN(4-3)_MomZero_rp.fits**
