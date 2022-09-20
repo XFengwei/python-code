@@ -1,4 +1,5 @@
 # include packages
+# pip install MontagePy==1.2.3
 from MontagePy.main import mGetHdr, mHdr, mImgtbl, mMakeHdr, mProjectQL, mAdd
 import os
 import shutil
